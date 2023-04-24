@@ -1,6 +1,8 @@
 body {
-    background-color: rgb(38, 0, 255);
+    background-color: rgba(11, 11, 11, 0.313);
 }
 p {
     color:palegoldenrod ;
 }
+
+h1 {color:chartreuse}
