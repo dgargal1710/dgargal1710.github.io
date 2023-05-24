@@ -8,5 +8,6 @@ p {
 h1 {color:chartreuse}
 
 table, td {
-    color
+    color:azure;
+    padding:5px;
 }
